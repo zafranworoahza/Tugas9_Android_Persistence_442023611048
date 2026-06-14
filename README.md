@@ -1,10 +1,10 @@
 Nama : Zafran Woro Ahza
 NIM  : 442023611048
 
-![1.jpeg](../../../../1.jpeg)
-![2.jpeg](../../../../2.jpeg)
-![3.jpeg](../../../../3.jpeg)
-![4.png](../../../../4.png)
+![Screenshot](images/1.jpeg)
+![Screenshot](images/2.jpeg)
+![Screenshot](images/3.jpeg)
+![Screenshot](images/4.jpeg)
 
 Penjelasan singkat mengenai mengapa operasi database harus menggunakan fungsi suspend dan dijalankan melalui Dispatchers.IO. :
 suspend itu berfungsi agar operasi database tidak memblokir UI thread. Fungsi bisa dijeda tanpa membekukan aplikasi
